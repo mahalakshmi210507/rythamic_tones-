@@ -27,5 +27,4 @@ A modern and responsive **Music Player** built using **React + Vite**, featuring
 
 ---
 
-## 📂 Folder Structure
 
