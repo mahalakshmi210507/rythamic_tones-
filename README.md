@@ -1,8 +1,31 @@
-# React + Vite
+# 🎵 Music Player Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Music Player** built using **React + Vite**, featuring song playback, playlist management, and favorites — all with a beautiful UI and gradient theme.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🎧 **Play and Pause Songs** – Built-in HTML audio player with controls.  
+- 💖 **Favorites Section** – Save your favorite songs in one place.  
+- 📜 **Playlist Management** – Add or remove songs to a personal playlist.  
+- 🔍 **Search Functionality** – Quickly find songs by title, genre, or singer.  
+- 🎨 **Modern UI Design** – Gradient background and card layout for songs.  
+- 📱 **Responsive Layout** – Works smoothly on both desktop and mobile screens.  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|-------------|-------------|
+| **React.js (Vite)** | Frontend framework for UI components |
+| **HTML5 / CSS3** | Styling and structure |
+| **JavaScript (ES6+)** | Logic and interactivity |
+| **LocalStorage / Context API** | For managing favorites and playlists |
+| **Audio API** | For song playback control |
+
+---
+
+## 📂 Folder Structure
+
